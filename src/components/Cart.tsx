@@ -51,8 +51,8 @@ const Cart = () => {
     
     const message = `Hello, I would like to purchase:%0A${cartItemsList}%0A%0ATotal: $${totalPrice.toLocaleString()}`;
     
-    // Create the WhatsApp URL with the message
-    const whatsappUrl = `https://wa.me/+919999999999?text=${message}`;
+    // Create the WhatsApp URL with the updated phone number
+    const whatsappUrl = `https://wa.me/+918950689078?text=${message}`;
     
     // Open WhatsApp in a new tab
     window.open(whatsappUrl, '_blank');
