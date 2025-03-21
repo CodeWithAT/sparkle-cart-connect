@@ -103,7 +103,7 @@ const Index = () => {
                 </div>
                 <h3 className="font-serif text-xl mb-2">Contact</h3>
                 <p className="text-gray-600 text-sm">
-                  +91 9999 999 999<br />
+                  +918950689078<br />
                   info@dhwanijewelry.com
                 </p>
               </div>
